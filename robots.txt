@@ -1,0 +1,14 @@
+User-agent: Damon-Rees*
+Disallow:
+
+User-agent: *
+Disallow: /script.js
+Disallow: /style.css
+Disallow: /script.js
+Disallow: /track.html
+disallow: /w3.example.html
+allow: /art.html
+allow: /blog.html
+
+sitemap: https://www.damonrees.info/sitemap.txt
+
